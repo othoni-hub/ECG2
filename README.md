@@ -24,13 +24,13 @@ fichiers de travail dans répertoire du même nom
   * **Ch5 - TD - Ex2**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch05_TD_Ex2_LesHalles.ipynb)
  
- * **Ch5 - TD - Ex3**
+  * **Ch5 - TD - Ex3**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch05_TD_Ex3_Série_Chronologique.ipynb)
 
- * **Ch5 - TD - Ex4**
+  * **Ch5 - TD - Ex4**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch05_TD_Ex4_Decathlon.ipynb)
 
- * **Ch5 - TD - Ex5**
+  * **Ch5 - TD - Ex5**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch05_TD_Ex5_ACP.ipynb)
 
  * **Ch6**
