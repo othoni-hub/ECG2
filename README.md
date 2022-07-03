@@ -42,16 +42,16 @@ fichiers de travail dans répertoire du même nom
 * **Ch8 SIR**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch08_SIR.ipynb)
 
- * **Ch8 Lotka Volterra**
+  * **Ch8 Lotka Volterra**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch08_TP_LotkaVolterra.ipynb)
 
 * **Ch9 TD - Ex1**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch09_TD_Ex1_Pop2Etats.ipynb)
 
- * **Ch9 - TD - Ex6**
+  * **Ch9 - TD - Ex6**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch09_TD_Ex6_UrneErhenfest.ipynb)
  
- * **Ch9 - TD - Ex7**
+  * **Ch9 - TD - Ex7**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch09_TD_Ex7_UrnePolya.ipynb)
   
 * **Ch10**
