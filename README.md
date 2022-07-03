@@ -11,7 +11,7 @@ fichiers de travail dans répertoire du même nom
 <p></p>
 
 
-* **TP0**
+* **Ch4**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=TP0_Remise_en_route_Python.ipynb) 
  **TP0-bis-Listes**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=EC1_TP0_bis_Listes.ipynb) 
