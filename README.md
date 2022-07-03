@@ -18,15 +18,15 @@ fichiers de travail dans répertoire du même nom
 * **Ch5 NB**
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG1/HEAD?filepath=Ch1_Notebook.ipynb)
  
- **Ch5 - TD - Ex1**
+  * **Ch5 - TD - Ex1**
  
- **Ch5 - TD - Ex2**
+  * **Ch5 - TD - Ex2**
  
- **Ch5 - TD - Ex3**
+ * **Ch5 - TD - Ex3**
 
- **Ch5 - TD - Ex4**
+ * **Ch5 - TD - Ex4**
 
- **Ch5 - TD - Ex5**
+ * **Ch5 - TD - Ex5**
  
  * **Ch6**
  
@@ -34,9 +34,16 @@ fichiers de travail dans répertoire du même nom
 
 * **Ch8**
 
-**Ch8**
+ * **Ch8**
 
 * **Ch9**
+
+ * **Ch9 - TD - Ex1**
+ 
+ * **Ch9 - TD - Ex6**
+ 
+ * **Ch9 - TD - Ex7**
+  
 
 * **Ch10**
 
