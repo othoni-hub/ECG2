@@ -55,7 +55,9 @@ fichiers de travail dans répertoire du même nom
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch09_TD_Ex7_UrnePolya.ipynb)
   
 * **Ch10**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch10_Correction_fin_NoteBook.ipynb)
+TP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch10_VariablesAléatoiresADensité.ipynb)
+
+TP- fin - Corrigé [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch10_Correction_fin_NoteBook.ipynb)
 
 * **Ch11**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/ECG2/HEAD?filepath=Ch11_Notebook_FonctionsDeuxVariables.ipynb)
